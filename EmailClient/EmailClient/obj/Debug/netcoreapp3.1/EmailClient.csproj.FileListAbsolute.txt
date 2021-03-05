@@ -1,0 +1,13 @@
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\bin\Debug\netcoreapp3.1\EmailClient.exe
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\bin\Debug\netcoreapp3.1\EmailClient.deps.json
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\bin\Debug\netcoreapp3.1\EmailClient.runtimeconfig.json
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\bin\Debug\netcoreapp3.1\EmailClient.runtimeconfig.dev.json
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\bin\Debug\netcoreapp3.1\EmailClient.dll
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\bin\Debug\netcoreapp3.1\EmailClient.pdb
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\obj\Debug\netcoreapp3.1\EmailClient.AssemblyInfoInputs.cache
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\obj\Debug\netcoreapp3.1\EmailClient.AssemblyInfo.cs
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\obj\Debug\netcoreapp3.1\EmailClient.csproj.CoreCompileInputs.cache
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\obj\Debug\netcoreapp3.1\EmailClient.dll
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\obj\Debug\netcoreapp3.1\EmailClient.pdb
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\obj\Debug\netcoreapp3.1\EmailClient.genruntimeconfig.cache
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\obj\Debug\netcoreapp3.1\EmailClient.csprojAssemblyReference.cache

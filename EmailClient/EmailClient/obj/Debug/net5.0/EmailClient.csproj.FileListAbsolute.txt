@@ -1,0 +1,15 @@
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\bin\Debug\net5.0\EmailClient.exe
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\bin\Debug\net5.0\EmailClient.deps.json
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\bin\Debug\net5.0\EmailClient.runtimeconfig.json
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\bin\Debug\net5.0\EmailClient.runtimeconfig.dev.json
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\bin\Debug\net5.0\EmailClient.dll
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\bin\Debug\net5.0\ref\EmailClient.dll
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\bin\Debug\net5.0\EmailClient.pdb
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\obj\Debug\net5.0\EmailClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\obj\Debug\net5.0\EmailClient.AssemblyInfoInputs.cache
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\obj\Debug\net5.0\EmailClient.AssemblyInfo.cs
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\obj\Debug\net5.0\EmailClient.csproj.CoreCompileInputs.cache
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\obj\Debug\net5.0\EmailClient.dll
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\obj\Debug\net5.0\ref\EmailClient.dll
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\obj\Debug\net5.0\EmailClient.pdb
+D:\TechGroup\module3\Task1\EmailClient\EmailClient\obj\Debug\net5.0\EmailClient.genruntimeconfig.cache
